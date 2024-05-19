@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jeremydpotts
 - 👀 I’m interested in new technology, Big Data, Machine Learning & much more!
-- 🌱 I’m currently learning Data Engineering via IBM Professional Certification powered by Coursera. 
+- 🌱 I recently completed my Data Science & ML Certification through MIT IDSS. 
 - 💞️ I’m looking to collaborate on any projects to grow my experience and network within the data commuunity.
 - 📫 How to reach me: Linkedin - https://www.linkedin.com/in/jeremydpotts/
 
